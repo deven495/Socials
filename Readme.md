@@ -1,4 +1,4 @@
-# Welcome to Socials - A command line Applications
+# Welcome to Socials - A command line Application
 
 **Commands Used in Socials App**
 
