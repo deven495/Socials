@@ -17,7 +17,7 @@ public class Socials {
         System.out.println();
         System.out.println("<------- Welcome to Socials App ------>");
         System.out.println("--------------------------------------");
-        System.out.println("|       $ Use These Commands $        |");
+        System.out.println("|       $ Use these commands $        |");
         System.out.println("|-------------------------------------|");
         System.out.println("| 1. signup username password         |");
         System.out.println("| 2. login username password          |");
