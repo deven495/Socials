@@ -100,6 +100,7 @@ public class Socials {
                     showNewsFeed(parts.length > 1 ? parts[1] : null);
                     break;
                 case "logout":
+                    loggedIn = false;
                     logout();
                     break;
                 case "exit":
