@@ -4,19 +4,19 @@ Console program that can simulate a social network.
 
 Users have the following capabilities (command to be used in [ Socials ]):
 
-[signup] A user can signup to the system
+[signup] -> A user can signup to the system
 
-[login] A user will be able to login to the system and the session will be created and used across for the other commands. Any existing session will be reinitiated with the new user logins.
+[login]  -> A user will be able to login to the system and the session will be created and used across for the other commands. Any existing session will be reinitiated with the new user logins.
 
-[post] A user can post a feed item.
+[post]   -> A user can post a feed item.
 
-[follow] Users can follow other users.
+[follow] -> Users can follow other users.
 
-[reply] A user can comment on another user's feed item.
+[reply]  -> A user can comment on another user's feed item.
 
-[upvote/downvote] Upvote or downvote posts.
+[upvote/downvote] -> Upvote or downvote posts.
 
-[shownewsfeed] Any user can read his news feed. News items are sorted based on the following (following options to sort feed by are available):
+[shownewsfeed] -> Any user can read his news feed. News items are sorted based on the following (following options to sort feed by are available):
 
 1 - Followed users: posts by followed users appear first.
 2 - Score (= upvotes - downvotes): higher the better.
